@@ -7,6 +7,37 @@ Implement the LeNet-5 deep neural network model.
 ### Dependencies
 This lab requires:
 
-* [CarND Term1 Starter Kit](https://github.com/udacity/CarND-Term1-Starter-Kit)
 
-The lab enviroment can be created with CarND Term1 Starter Kit. Click [here](https://github.com/udacity/CarND-Term1-Starter-Kit/blob/master/README.md) for the details.
+###Training...
+
+EPOCH 1 ...
+Validation Accuracy = 0.971
+
+EPOCH 2 ...
+Validation Accuracy = 0.980
+
+EPOCH 3 ...
+Validation Accuracy = 0.985
+
+EPOCH 4 ...
+Validation Accuracy = 0.986
+
+EPOCH 5 ...
+Validation Accuracy = 0.986
+
+EPOCH 6 ...
+Validation Accuracy = 0.986
+
+EPOCH 7 ...
+Validation Accuracy = 0.988
+
+EPOCH 8 ...
+Validation Accuracy = 0.987
+
+EPOCH 9 ...
+Validation Accuracy = 0.986
+
+EPOCH 10 ...
+Validation Accuracy = 0.988
+
+
